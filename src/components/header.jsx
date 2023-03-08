@@ -25,8 +25,10 @@ export const Header = (props) => {
                 
                 </p>
                 <a
-                  href="#contact"
+                  href="https://bafybeih37flfnk7uwowbikda3diuzg5kixyq7fyg4ewjzhrxh42soxd724.ipfs.nftstorage.link/"
                   className="btn btn-custom btn-lg page-scroll"
+                  target="_blank"
+                  rel="noreferrer"
                 >
                   제품 카탈로그 다운로드
                 </a>{" "}
