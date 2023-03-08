@@ -14,6 +14,12 @@ export const Gallery = (props) => {
           <p>
             제품 문의 02-357-1484
           </p>
+          <a
+            href="#contact"
+            className="btn btn-custom btn-lg page-scroll"
+          >
+            제품 카탈로그 다운로드
+          </a>
         </div>
         <div className="row">
           <div className="portfolio-items">

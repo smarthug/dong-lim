@@ -1,7 +1,7 @@
 {
   "Header": {
     "title": "Honeywell 공식 판매점 동림엔텍",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "paragraph": "1971년 11월 15일 설립"
   },
   "About": {
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -203,8 +203,9 @@
     }
   ],
   "Contact": {
-    "address": "서울특별시 은평구 응암1동 149-2",
+    "address": "서울시 은평구 백련산로 172  101호",
     "phone": "02-357-1484",
+    "fax": "02-382-3676",
     "email": "tr0302@hanmail.net",
     "facebook": "fb.com",
     "twitter": "twitter.com",
@@ -212,23 +213,23 @@
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "가스측정기 교정 및 센서교체",
+      "icon": "fa fa-check",
+      "title": "공식 판매점",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "가스측정기 교정 및 센서교체",
+      "icon": "fa fa-binoculars",
+      "title": "가스측정기 점검",
       "text": "가스측정기 교정 및 센서교체 dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
     {
-      "icon": "fa fa-group",
-      "title": "가스측정기 교정 및 센서교체",
+      "icon": "fa fa-wrench",
+      "title": "가스측정기 수리 및 교정",
       "text": "가스측정기 교정 및 센서교체 dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
     {
-      "icon": "fa fa-magic",
-      "title": "가스측정기 교정 및 센서교체",
+      "icon": "fa fa-refresh",
+      "title": "센서교체",
       "text": "가스측정기 교정 및 센서교체 dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     }
   ]

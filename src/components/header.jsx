@@ -19,7 +19,7 @@ export const Header = (props) => {
                   href="#contact"
                   className="btn btn-custom btn-lg page-scroll"
                 >
-                  구매 문의
+                  제품 카탈로그 다운로드
                 </a>{" "}
               </div>
             </div>
