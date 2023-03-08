@@ -1,0 +1,235 @@
+{
+  "Header": {
+    "title": "Honeywell 공식 판매점 동림엔텍",
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+  },
+  "About": {
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "Why": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt",
+      "Lorem ipsum dolor",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "HONEYWELL BW™ RIGRAT",
+      "description": "Honeywell BW™ RigRat은 이동 가능한 복합 가스 검지기이며, 새로운 차원의 사용자 친화성을 제공합니다. 검지기를 근처에 놓기만 하면 작업자 주위에 가스 위협을 경고하여 필요한 안전 조치를 취할 수 있습니다.",
+      "smallImage": "https://s7d1.scene7.com/is/image/Honeywell65/sps-his-honeywell-bw-rigrat-left-high-1",
+      "manualLink": "https://sps.honeywell.com/kr/ko/products/safety/gas-and-flame-detection/portables/honeywell-bw-rigrat"
+    },
+    {
+      "title": "Honeywell BW™ Flex",
+      "description": "철강 및 폐수에서 종이 및 펄프에 이르기까지 산업 분야의 작업자 또는 초기 대응 인력를 보호하는 경우 Honeywell BW™ Flex는 필요한 유연성을 제공합니다. 15개 이상의 센서 중에서 선택하여 최대 4개의 가스 위험을 동시에 감지합니다.",
+      "smallImage": "https://s7d1.scene7.com/is/image/Honeywell65/sps-his-bw-flex4-render-yellow-hi-res-2",
+      "manualLink": "https://sps.honeywell.com/kr/ko/products/safety/gas-and-flame-detection/portables/honeywell-bw-flex"
+    },
+    {
+      "title": "Honeywell BW™ Ultra",
+      "description": "Honeywell BW™ Ultra는 밀폐된 공간을 샘플링 및 모니터링하기 위해 특별히 설계된 휴대용 5가지 가스 검지기입니다. 이 검지기는 극한의 환경에서도 응답이 빠르고, 성능이 안정적이며 수명이 긴 1 시리즈 센서 기능을 갖춘 제품으로, 시중에 처음 출시되었습니다. 이 제품은 정확성이 높고 가격이 저렴합니다.",
+      "smallImage": "https://s7d1.scene7.com/is/image/Honeywell65/Honeywell_BW_Ultra_Yellow_Square",
+      "manualLink": "https://sps.honeywell.com/kr/ko/products/safety/gas-and-flame-detection/portables/honeywell-bw-ultra"
+    },
+    {
+      "title": "Touchpoint™ Plus Wireless Controller",
+      "description": "Touchpoint™ Plus Wireless는 기존 전선 연결 센서와 함께 연결된 센서로 구성된 Honeywell MeshGuard 인텔리전트 네트워크를 통해 RAE Systems와 통합하기 위해 설계된 내장 무선 모뎀이 포함된 하이브리드 멀티 채널 컨트롤러입니다.",
+      "smallImage": "https://s7d1.scene7.com/is/image/Honeywell65/his-rae-tpplw-side-angled-newscreen-539x323",
+      "manualLink": "https://sps.honeywell.com/kr/ko/products/safety/gas-and-flame-detection/portables/touchpoint-plus-wireless-controller"
+    },
+    {
+      "title": "Honeywell BW™ Solo",
+      "description": "Honeywell BW™ Solo는 BLE 연결이 가능하고 수리가 간편한 단일 가스 검지기로, 위험한 영역에서 일하는 작업자의 상태와 안전에 관한 실시간 가시성을 제공하며, 기업이 안전 사고에 대해 정보에 근거하여 빠르고 결단력 있게 대응할 수 있도록 지원합니다.",
+      "smallImage": "https://s7d1.scene7.com/is/image/Honeywell65/BWSoloMainSquare-2",
+      "manualLink": "https://sps.honeywell.com/kr/ko/products/safety/gas-and-flame-detection/portables/honeywell-bw-solo"
+    },
+    {
+      "title": "BW Clip Series",
+      "description": "유지 관리가 필요 없는 BW Clip 시리즈 검지기는 사용자에게 가장 친숙하고 신뢰할 수 있으며 비용 효과적인 방식으로 안전성, 규정 준수 및 생산성을 보장합니다.BW Clip 시리즈는 최대 3년 동안 유지 보수하지 않아도 작동 가능합니다. 또한 H2S 또는 CO용 2년 버전을 사용하면 가격 대비 뛰어난 수명 기간의 이점을 누릴 수 있습니다. 일주일 이상 사용하지 않을 경우 휴면 케이스에 넣기만 하면 해당 기간의 서비스 수명을 최대 1년 연장할 수 있습니다.",
+      "smallImage": "https://s7d1.scene7.com/is/image/Honeywell65/BWClipRTmainimage-Square",
+      "manualLink": "https://sps.honeywell.com/kr/ko/products/safety/gas-and-flame-detection/portables/bw-clip-series"
+    },
+    {
+      "title": "IntelliDoX",
+      "description": "IntelliDoX 기기 관리 시스템을 사용하는 경우 검지기를 도킹 모듈에 놓기만 하면 Fleet Manager II 또는 Honeywell Safety Suite 소프트웨어의 사양에 따라 특정 작업이 자동으로 수행됩니다. 각 모듈이 범프 테스트를 수행하고 높음 및 낮음 경보 설정점을 재구성하며 다양한 기능을 수행하도록 설정할 수 있습니다. 또한 소프트웨어를 사용하여 각 가스 검지기의 데이터를 분석하고 보고서를 작성하며 표준 준수 여부를 추적하고 작업자에게 다시 알림 이메일을 보낼 수도 있습니다",
+      "smallImage": "https://s7d1.scene7.com/is/image/Honeywell65/BW_IntelliDoX_Square1-1",
+      "manualLink": "https://sps.honeywell.com/kr/ko/products/safety/gas-and-flame-detection/portables/intellidox"
+    },
+    {
+      "title": "MeshGuard Stainless Steel",
+      "description": "MeshGuard는 수많은 산업 및 원격 모니터링 애플리케이션에 신속하게 배포할 수 있는 최고의 가스 감지 시스템입니다. MeshGuard는 생명을 구할 뿐만 아니라 규정 준수 및 정보 처리에서 수만 달러를 구합니다",
+      "smallImage": "https://s7d1.scene7.com/is/image/Honeywell65/MeshGuardEC_layered",
+      "manualLink": "https://sps.honeywell.com/kr/ko/products/safety/gas-and-flame-detection/portables/meshguard-ec"
+    },
+    {
+      "title": "Honeywell BW™ Clip4",
+      "description": "현장에서 손이 세 개라도 부족하십니까? 그렇다면 편리하게 사용하기 좋은 제품인 Honeywell BW™ Clip4 4종 가스 검지기가 필수입니다. 착용 가능한 복합 가스 검지기로, 상시 켜진 상태로 이용하는 제품입니다. 충전이나 배터리 교체가 필요하지 않아 사용하기 편리합니다. 품질과 타협하지 않는 Honeywell의 정신과 지지 기술 풀 에코 시스템을 기반으로 간소화되고 소유 비용이 절감되었습니다. Honeywell BW™ Clip4를 클립으로 고정하면 전원이 켜집니다",
+      "smallImage": "https://s7d1.scene7.com/is/image/Honeywell65/BWClip4_mainproductimageSquare1",
+      "manualLink": "https://sps.honeywell.com/kr/ko/products/safety/gas-and-flame-detection/portables/honeywell-bw-clip4"
+    },
+    {
+      "title": "Honeywell BW™ MicroClip Series",
+      "description": "시리즈의 신제품 Honeywell BW™ MicroClip X3는 새로운 O2 센서와 3년의 보증기간을 제공하여, 작업자가 주로사용하는 기본 4가스 검지기의 비용 절약 및 사용 편의성을 증대하였습니다.",
+      "smallImage": "https://s7d1.scene7.com/is/image/Honeywell65/GasAlertMicroClipXlX3-1",
+      "manualLink": "https://sps.honeywell.com/kr/ko/products/safety/gas-and-flame-detection/portables/honeywell-bw-microclip-series"
+    },
+    {
+      "title": "Honeywell BW™ Max XT ll",
+      "description": "Honeywell BW™ Max XT ll는 표준 준수를 위한 스마트하고 단순하며 경제적인 방법입니다. 작업자는 안전하다고 느끼고 사고가 최소화되므로 모든 사람이 더 많은 작업을 할 수 있습니다. 즉, 비즈니스 연속성과 생산성에서 비용 절감이 실현됩니다.",
+      "smallImage": "https://s7d1.scene7.com/is/image/Honeywell65/GasAlertMaxXTII_-1",
+      "manualLink": "https://sps.honeywell.com/kr/ko/products/safety/gas-and-flame-detection/portables/honeywell-bw-max-xt-ll"
+    },
+    {
+      "title": "Honeywell BW™ Connect",
+      "description": "무선 가스 감지의 경우 복잡성과 비용은 규정 준수 부문의 두 가지 주요 장벽입니다. 새로운 Honeywell BW™ Connect는 설치에 필요한 나사나 도구가 필요 없는 사용하기 쉬운 어댑터입니다. 이 솔루션은 또한 번들 가격과 스마트폰 사용 옵션 덕분에 비용 효율적입니다. 또한 Honeywell BW™ Connect는 신뢰할 수 있는 가스 누출 감지 솔루션에 무선 연결을 제공하여 더욱 안심하고 비즈니스를 보호하면서 완전한 규정 준수를 보장합니다.",
+      "smallImage": "https://s7d1.scene7.com/is/image/Honeywell65/his-ha-bw-connect-main-2",
+      "manualLink": "https://sps.honeywell.com/kr/ko/products/safety/gas-and-flame-detection/portables/honeywell-bw-connect"
+    },
+    {
+      "title": "GasAlertQuattro",
+      "description": "유연한 전원을 켜고 GasAlertQuattro는 준비가 되어 있습니다. 그 순간 LCD에서 작동하고 있다는 것! IntelliFlash는 최고와 완벽하게 일치하고 있습니다. 협소한 공간 진입을 포함한 다양한 산업 분야에 적합합니다.",
+      "smallImage": "https://s7d1.scene7.com/is/image/Honeywell65/BW_GasAlertQuattro,_34_view,_right_facing,_shown_with_IntelliFlash-1",
+      "manualLink": "https://sps.honeywell.com/kr/ko/products/safety/gas-and-flame-detection/portables/gasalertquattro"
+    },
+    {
+      "title": "GasAlertMicro 5 Series",
+      "description": "산소, 인화성 물질 및 유독성 가스를 비롯한 최대 5개의 잠재적 대기 위험으로부터 보호하는 GasAlertMicro 5는 다목적성, 기능 및 전체적인 가치 면에서 타의 추종을 불허합니다.BW Technologies by Honeywell의 휴대용 가스 검지기 방수 라인에 새롭게 추가된 이 검지기는 독보적인 일련의 기능으로 시장을 완전히 바꿔 놓았습니다",
+      "smallImage": "https://honeywell.scene7.com/is/image/Honeywell65/BW_GasAlertMicro_5_PID,_front_view,_angled_slightly_right,_diffusion_version",
+      "manualLink": "https://sps.honeywell.com/kr/ko/products/safety/gas-and-flame-detection/portables/gasalertmicro-5-series"
+    },
+    {
+      "title": "MicroDock II Dock Calibration System",
+      "description": "Honeywell Analytics 휴대용 가스 검지기의 교정 및 범프 테스트를 관리하는 가장 비용 효율적인 방법은 MicroDock II 자동 테스트 및 교정 시스템을 사용하는 것입니다. 완전한 휴대성을 갖췄으며 쉽게 확장되는 MicroDock II는 컴퓨터가 불필요하며 최대 6 개의 모듈을 동시에 관리할 수 있습니다. MicroDock II를 사용하여 비용을 최소화하고 생산성을 최대화하십시오",
+      "smallImage": "https://s7d1.scene7.com/is/image/Honeywell65/BW_MicroDock_II,_base_station_with_two_modules_for_GasAlertQuattro-1",
+      "manualLink": "https://sps.honeywell.com/kr/ko/products/safety/gas-and-flame-detection/portables/microdock-ii-dock-calibration-system"
+    },
+    {
+      "title": "Colorimetric Gas Detection Tubes",
+      "description": "가스 감지 튜브는 다음과 같은 방식으로 작동합니다. 시약의 색상 변화를 유발합니다. 그런 다음 시약의 색상 얼룩 길이에서 농도를 읽습니다. 다른 분석 방법에 비해 검출 튜브의 장점은 사용이 간편하고, 빠른 응답, 저렴한 비용 및 매우 낮은 유지보수입니다",
+      "smallImage": "https://s7d1.scene7.com/is/image/Honeywell65/Pump-wi-Tubes_hires-1",
+      "manualLink": "https://sps.honeywell.com/kr/ko/products/safety/gas-and-flame-detection/portables/colorimetric-gas-detection-tubes-and-pump"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "가스측정기 교정 및 센서교체",
+      "text": "가스측정기 교정 및 센서교체 sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "가스측정기 교정 및 센서교체 sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "가스측정기 교정 및 센서교체",
+      "text": "가스측정기 교정 및 센서교체 sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "가스측정기 교정 및 센서교체 sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "가스측정기 교정 및 센서교체",
+      "text": "가스측정기 교정 및 센서교체 sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "가스측정기 교정 및 센서교체 sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "서울특별시 은평구 응암1동 149-2",
+    "phone": "02-357-1484",
+    "email": "tr0302@hanmail.net",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "https://www.youtube.com/user/HoneywellSafety"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "가스측정기 교정 및 센서교체",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "가스측정기 교정 및 센서교체",
+      "text": "가스측정기 교정 및 센서교체 dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "가스측정기 교정 및 센서교체",
+      "text": "가스측정기 교정 및 센서교체 dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "가스측정기 교정 및 센서교체",
+      "text": "가스측정기 교정 및 센서교체 dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
