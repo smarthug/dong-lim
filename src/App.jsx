@@ -24,7 +24,12 @@ const App = () => {
   }, []);
 
   return (
-    <div>
+    <div
+      style={{
+        width: "100%",
+        
+      }}
+    >
       <Navigation />
       <Header data={landingPageData.Header} />
       <Features data={landingPageData.Features} />

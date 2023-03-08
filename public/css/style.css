@@ -210,6 +210,7 @@ a:focus,
   padding: 0;
   /* background: url(../img/intro-bg.jpg) center center no-repeat; */
   background: url(../img/sps-safety-gas-contact-us-hero-image_5-2-hero.webp) center center no-repeat;
+  /* background: url(https://s7d1.scene7.com/is/image/Honeywell65/sps-his-products-gas-and-flame-detection-portable-gas-detection-hero-mobile-9) center center no-repeat; */
   background-color: #e5e5e5;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -603,5 +604,14 @@ label {
 @media (max-width: 768px) {
   #about img {
     margin: 50px 0;
+  }
+}
+
+
+@media (max-width: 768px) {
+  .intro {
+   
+    background: url(https://s7d1.scene7.com/is/image/Honeywell65/sps-his-products-gas-and-flame-detection-portable-gas-detection-hero-mobile-9) center center no-repeat;
+    
   }
 }

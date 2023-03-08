@@ -32,7 +32,11 @@ export const Contact = (props) => {
     //   );
   };
   return (
-    <div>
+    <div style={
+      {
+        width: "100%",
+      }
+    }>
       <div id="contact">
         <div className="container">
           <div className="col-md-8">
@@ -85,7 +89,7 @@ export const Contact = (props) => {
             <div className="row">
               <div className="social">
                 <ul>
-                  <li>
+                  {/* <li>
                     <a href={props.data ? props.data.facebook : "/"}>
                       <i className="fa fa-facebook"></i>
                     </a>
@@ -94,7 +98,7 @@ export const Contact = (props) => {
                     <a href={props.data ? props.data.twitter : "/"}>
                       <i className="fa fa-twitter"></i>
                     </a>
-                  </li>
+                  </li> */}
                   <li>
                     <a href={props.data ? props.data.youtube : "/"}>
                       <i className="fa fa-youtube"></i>
@@ -109,7 +113,9 @@ export const Contact = (props) => {
       <div id="footer">
         <div className="container text-center">
           <p>
-            &copy; 2023 동림엔텍(주)
+            &copy; 2023 동림엔텍(주) TongRim Trading All Rights Reserved.
+            대표이사: 최봉훈
+            사업자번호: 102-81-07690
             {/* <a href="http://www.templatewire.com" rel="nofollow">
               TemplateWire
             </a> */}
