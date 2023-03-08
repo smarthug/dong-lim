@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/dong-lim/static/css/main.ae42ac5f.css",
-    "main.js": "/dong-lim/static/js/main.652c712a.js",
+    "main.css": "/dong-lim/static/css/main.14ec4e2d.css",
+    "main.js": "/dong-lim/static/js/main.1bc00e3a.js",
     "index.html": "/dong-lim/index.html",
-    "main.ae42ac5f.css.map": "/dong-lim/static/css/main.ae42ac5f.css.map",
-    "main.652c712a.js.map": "/dong-lim/static/js/main.652c712a.js.map"
+    "main.14ec4e2d.css.map": "/dong-lim/static/css/main.14ec4e2d.css.map",
+    "main.1bc00e3a.js.map": "/dong-lim/static/js/main.1bc00e3a.js.map"
   },
   "entrypoints": [
-    "static/css/main.ae42ac5f.css",
-    "static/js/main.652c712a.js"
+    "static/css/main.14ec4e2d.css",
+    "static/js/main.1bc00e3a.js"
   ]
 }
