@@ -20,6 +20,30 @@
   },
   "Gallery": [
     {
+      "title": "Honeywell BW™ Ultra",
+      "description": "Honeywell BW™ Ultra는 밀폐된 공간을 샘플링 및 모니터링하기 위해 특별히 설계된 휴대용 5가지 가스 검지기입니다. 이 검지기는 극한의 환경에서도 응답이 빠르고, 성능이 안정적이며 수명이 긴 1 시리즈 센서 기능을 갖춘 제품으로, 시중에 처음 출시되었습니다. 이 제품은 정확성이 높고 가격이 저렴합니다.",
+      "smallImage": "https://s7d1.scene7.com/is/image/Honeywell65/Honeywell_BW_Ultra_Yellow_Square",
+      "manualLink": "https://sps.honeywell.com/kr/ko/products/safety/gas-and-flame-detection/portables/honeywell-bw-ultra"
+    },
+    {
+      "title": "Honeywell BW™ Solo",
+      "description": "Honeywell BW™ Solo는 BLE 연결이 가능하고 수리가 간편한 단일 가스 검지기로, 위험한 영역에서 일하는 작업자의 상태와 안전에 관한 실시간 가시성을 제공하며, 기업이 안전 사고에 대해 정보에 근거하여 빠르고 결단력 있게 대응할 수 있도록 지원합니다.",
+      "smallImage": "https://s7d1.scene7.com/is/image/Honeywell65/BWSoloMainSquare-2",
+      "manualLink": "https://sps.honeywell.com/kr/ko/products/safety/gas-and-flame-detection/portables/honeywell-bw-solo"
+    },
+    {
+      "title": "Honeywell BW™ Clip4",
+      "description": "현장에서 손이 세 개라도 부족하십니까? 그렇다면 편리하게 사용하기 좋은 제품인 Honeywell BW™ Clip4 4종 가스 검지기가 필수입니다. 착용 가능한 복합 가스 검지기로, 상시 켜진 상태로 이용하는 제품입니다. 충전이나 배터리 교체가 필요하지 않아 사용하기 편리합니다. 품질과 타협하지 않는 Honeywell의 정신과 지지 기술 풀 에코 시스템을 기반으로 간소화되고 소유 비용이 절감되었습니다. Honeywell BW™ Clip4를 클립으로 고정하면 전원이 켜집니다",
+      "smallImage": "https://s7d1.scene7.com/is/image/Honeywell65/BWClip4_mainproductimageSquare1",
+      "manualLink": "https://sps.honeywell.com/kr/ko/products/safety/gas-and-flame-detection/portables/honeywell-bw-clip4"
+    },
+    {
+      "title": "Honeywell BW™ MicroClip Series",
+      "description": "시리즈의 신제품 Honeywell BW™ MicroClip X3는 새로운 O2 센서와 3년의 보증기간을 제공하여, 작업자가 주로사용하는 기본 4가스 검지기의 비용 절약 및 사용 편의성을 증대하였습니다.",
+      "smallImage": "https://s7d1.scene7.com/is/image/Honeywell65/GasAlertMicroClipXlX3-1",
+      "manualLink": "https://sps.honeywell.com/kr/ko/products/safety/gas-and-flame-detection/portables/honeywell-bw-microclip-series"
+    },
+    {
       "title": "HONEYWELL BW™ RIGRAT",
       "description": "Honeywell BW™ RigRat은 이동 가능한 복합 가스 검지기이며, 새로운 차원의 사용자 친화성을 제공합니다. 검지기를 근처에 놓기만 하면 작업자 주위에 가스 위협을 경고하여 필요한 안전 조치를 취할 수 있습니다.",
       "smallImage": "https://s7d1.scene7.com/is/image/Honeywell65/sps-his-honeywell-bw-rigrat-left-high-1",
@@ -32,22 +56,10 @@
       "manualLink": "https://sps.honeywell.com/kr/ko/products/safety/gas-and-flame-detection/portables/honeywell-bw-flex"
     },
     {
-      "title": "Honeywell BW™ Ultra",
-      "description": "Honeywell BW™ Ultra는 밀폐된 공간을 샘플링 및 모니터링하기 위해 특별히 설계된 휴대용 5가지 가스 검지기입니다. 이 검지기는 극한의 환경에서도 응답이 빠르고, 성능이 안정적이며 수명이 긴 1 시리즈 센서 기능을 갖춘 제품으로, 시중에 처음 출시되었습니다. 이 제품은 정확성이 높고 가격이 저렴합니다.",
-      "smallImage": "https://s7d1.scene7.com/is/image/Honeywell65/Honeywell_BW_Ultra_Yellow_Square",
-      "manualLink": "https://sps.honeywell.com/kr/ko/products/safety/gas-and-flame-detection/portables/honeywell-bw-ultra"
-    },
-    {
       "title": "Touchpoint™ Plus Wireless Controller",
       "description": "Touchpoint™ Plus Wireless는 기존 전선 연결 센서와 함께 연결된 센서로 구성된 Honeywell MeshGuard 인텔리전트 네트워크를 통해 RAE Systems와 통합하기 위해 설계된 내장 무선 모뎀이 포함된 하이브리드 멀티 채널 컨트롤러입니다.",
       "smallImage": "https://s7d1.scene7.com/is/image/Honeywell65/his-rae-tpplw-side-angled-newscreen-539x323",
       "manualLink": "https://sps.honeywell.com/kr/ko/products/safety/gas-and-flame-detection/portables/touchpoint-plus-wireless-controller"
-    },
-    {
-      "title": "Honeywell BW™ Solo",
-      "description": "Honeywell BW™ Solo는 BLE 연결이 가능하고 수리가 간편한 단일 가스 검지기로, 위험한 영역에서 일하는 작업자의 상태와 안전에 관한 실시간 가시성을 제공하며, 기업이 안전 사고에 대해 정보에 근거하여 빠르고 결단력 있게 대응할 수 있도록 지원합니다.",
-      "smallImage": "https://s7d1.scene7.com/is/image/Honeywell65/BWSoloMainSquare-2",
-      "manualLink": "https://sps.honeywell.com/kr/ko/products/safety/gas-and-flame-detection/portables/honeywell-bw-solo"
     },
     {
       "title": "BW Clip Series",
@@ -66,18 +78,6 @@
       "description": "MeshGuard는 수많은 산업 및 원격 모니터링 애플리케이션에 신속하게 배포할 수 있는 최고의 가스 감지 시스템입니다. MeshGuard는 생명을 구할 뿐만 아니라 규정 준수 및 정보 처리에서 수만 달러를 구합니다",
       "smallImage": "https://s7d1.scene7.com/is/image/Honeywell65/MeshGuardEC_layered",
       "manualLink": "https://sps.honeywell.com/kr/ko/products/safety/gas-and-flame-detection/portables/meshguard-ec"
-    },
-    {
-      "title": "Honeywell BW™ Clip4",
-      "description": "현장에서 손이 세 개라도 부족하십니까? 그렇다면 편리하게 사용하기 좋은 제품인 Honeywell BW™ Clip4 4종 가스 검지기가 필수입니다. 착용 가능한 복합 가스 검지기로, 상시 켜진 상태로 이용하는 제품입니다. 충전이나 배터리 교체가 필요하지 않아 사용하기 편리합니다. 품질과 타협하지 않는 Honeywell의 정신과 지지 기술 풀 에코 시스템을 기반으로 간소화되고 소유 비용이 절감되었습니다. Honeywell BW™ Clip4를 클립으로 고정하면 전원이 켜집니다",
-      "smallImage": "https://s7d1.scene7.com/is/image/Honeywell65/BWClip4_mainproductimageSquare1",
-      "manualLink": "https://sps.honeywell.com/kr/ko/products/safety/gas-and-flame-detection/portables/honeywell-bw-clip4"
-    },
-    {
-      "title": "Honeywell BW™ MicroClip Series",
-      "description": "시리즈의 신제품 Honeywell BW™ MicroClip X3는 새로운 O2 센서와 3년의 보증기간을 제공하여, 작업자가 주로사용하는 기본 4가스 검지기의 비용 절약 및 사용 편의성을 증대하였습니다.",
-      "smallImage": "https://s7d1.scene7.com/is/image/Honeywell65/GasAlertMicroClipXlX3-1",
-      "manualLink": "https://sps.honeywell.com/kr/ko/products/safety/gas-and-flame-detection/portables/honeywell-bw-microclip-series"
     },
     {
       "title": "Honeywell BW™ Max XT ll",

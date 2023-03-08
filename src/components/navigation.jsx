@@ -18,7 +18,7 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
           </button>
 
-          <img src="img/logo.jpg" />
+          <img src="img/logo.jpg" alt="logo" />
           <a className="navbar-brand page-scroll" href="#page-top">
             {/* 동림엔텍(주) */}
           </a>{" "}
