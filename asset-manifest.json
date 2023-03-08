@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dong-lim/static/css/main.ae42ac5f.css",
+    "main.js": "/dong-lim/static/js/main.652c712a.js",
+    "index.html": "/dong-lim/index.html",
+    "main.ae42ac5f.css.map": "/dong-lim/static/css/main.ae42ac5f.css.map",
+    "main.652c712a.js.map": "/dong-lim/static/js/main.652c712a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.652c712a.js"
+  ]
+}
