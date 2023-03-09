@@ -9,10 +9,20 @@ export const Header = (props) => {
             <div className="row">
               <div className="col-md-8 col-md-offset-2 intro-text">
 
-                <h1>
+                <h1 >
 
-                  {props.data ? props.data.title : "Loading"}
+                  {/* {props.data ? props.data.title : "Loading"} */}
+                  {props.data ? `Honeywell ` : "Loading"}
                   <span></span>
+                </h1>
+                <h1>
+                  가스측정기
+                </h1>
+                <h1>
+                  공식 판매점
+                </h1>
+                <h1>
+                  동림엔텍
                 </h1>
                 <p
                   style={{
@@ -22,7 +32,7 @@ export const Header = (props) => {
 
                 >
                   {/* {props.data ? props.data.paragraph : "Loading"} */}
-                
+
                 </p>
                 <a
                   href="https://bafybeih37flfnk7uwowbikda3diuzg5kixyq7fyg4ewjzhrxh42soxd724.ipfs.nftstorage.link/"
