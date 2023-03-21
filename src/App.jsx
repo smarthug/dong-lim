@@ -26,8 +26,7 @@ const App = () => {
   return (
     <div
       style={{
-        width: "100%",
-        
+        width: "100%"
       }}
     >
       <Navigation />
