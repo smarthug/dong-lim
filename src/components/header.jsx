@@ -35,7 +35,7 @@ export const Header = (props) => {
 
                 </p>
                 <a
-                  href="https://bafybeih37flfnk7uwowbikda3diuzg5kixyq7fyg4ewjzhrxh42soxd724.ipfs.nftstorage.link/"
+                  href="https://bafybeidrpahfmsxlodlge75zadunscpysc52bgpzdl7p5lhbckwlkw3eeq.ipfs.nftstorage.link//"
                   className="btn btn-custom btn-lg page-scroll"
                   target="_blank"
                   rel="noreferrer"
