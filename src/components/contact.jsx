@@ -44,7 +44,7 @@ export const Contact = (props) => {
               <div className="section-title">
                 <h2>구매 상담</h2>
                 <a
-                  href="https://bafybeidcu6ir4lisdlq37lbw3z7kzdjbvdnre5t5whw5smvynp7h66ke3u.ipfs.nftstorage.link.ipfs.nftstorage.link"
+                  href="https://bafybeidcu6ir4lisdlq37lbw3z7kzdjbvdnre5t5whw5smvynp7h66ke3u.ipfs.nftstorage.link/.ipfs.nftstorage.link"
                   className="btn btn-custom btn-lg page-scroll"
                   target="_blank"
                   rel="noreferrer"
