@@ -13,10 +13,14 @@ export const About = (props) => {
             <div className="about-text">
               <h2>동림 엔텍은</h2>
               <p>{props.data ? props.data.paragraph : "loading..."}</p>
-            
-              
+
+
             </div>
           </div>
+            <img style={{
+              padding:"15px",
+              backgroundColor:"#f7f7f7"
+            }} src="img/korean_customer.jpg" className="img-responsive" alt="" />
         </div>
       </div>
     </div>
